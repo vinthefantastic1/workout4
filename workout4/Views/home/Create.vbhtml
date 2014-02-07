@@ -12,6 +12,7 @@ End Code
     @<fieldset>
         <legend>workoutSession</legend>
 
+
         <div class="editor-label">
             @Html.LabelFor(Function(model) model.exerciseName)
         </div>
